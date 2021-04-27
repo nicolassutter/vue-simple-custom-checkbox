@@ -43,7 +43,7 @@ export default {
 ## Props
 
 | Name | Default | Description |
-|--|--|--|--|
+|--|--|--|
 | `checked` | `false` | The default checked status |
 | `disabled` | `false` | If the checkbox should be disabled |
 | `id` | `''` | The optionnal id of the checkbox|
