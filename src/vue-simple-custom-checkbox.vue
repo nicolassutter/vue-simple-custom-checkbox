@@ -112,7 +112,7 @@ export default Vue.extend({
 })
 </script>
 
-<style lang="scss" scoped>
+<style lang="scss">
 .vue-simple-checkbox-container {
   --input-size: 2em;
   --border-width: .1em;

@@ -310,7 +310,7 @@ var __vue_render__ = function __vue_render__() {
 
   return _c('div', {
     staticClass: "vue-simple-checkbox-container"
-  }, [_vm._ssrNode("<input" + _vm._ssrAttr("id", _vm.id || "vue-simple-checkbox-" + _vm.uid) + _vm._ssrAttr("disabled", _vm.disabled) + _vm._ssrAttr("name", _vm.name) + _vm._ssrAttr("title", _vm.title) + " type=\"checkbox\"" + _vm._ssrAttr("checked", Array.isArray(_vm.isChecked) ? _vm._i(_vm.isChecked, null) > -1 : _vm.isChecked) + _vm._ssrAttrs(_vm.ariaAttrs) + " class=\"vue-simple-checkbox\" data-v-43efec6b> "), _vm._ssrNode("<span class=\"vue-simple-check\" data-v-43efec6b>", "</span>", [_c('IconCheck', {
+  }, [_vm._ssrNode("<input" + _vm._ssrAttr("id", _vm.id || "vue-simple-checkbox-" + _vm.uid) + _vm._ssrAttr("disabled", _vm.disabled) + _vm._ssrAttr("name", _vm.name) + _vm._ssrAttr("title", _vm.title) + " type=\"checkbox\"" + _vm._ssrAttr("checked", Array.isArray(_vm.isChecked) ? _vm._i(_vm.isChecked, null) > -1 : _vm.isChecked) + _vm._ssrAttrs(_vm.ariaAttrs) + " class=\"vue-simple-checkbox\"> "), _vm._ssrNode("<span class=\"vue-simple-check\">", "</span>", [_c('IconCheck', {
     staticClass: "vue-simple-checkbox-check-icon"
   })], 1)], 2);
 };
@@ -320,8 +320,8 @@ var __vue_staticRenderFns__ = [];
 
 var __vue_inject_styles__ = function __vue_inject_styles__(inject) {
   if (!inject) return;
-  inject("data-v-43efec6b_0", {
-    source: ".vue-simple-checkbox-container[data-v-43efec6b]{--input-size:2em;--border-width:.1em;--border-radius:.5em;--border-style:solid;--default-bg-color:white;--default-bg-transition:background-color .1s ease-in;--default-opacity-transition:opacity 0.3s ease-in;--font-size:62.5%;--icon-color:white;--primary:#3B82F6;--secondary:#93C5FD;--outline-width:.2em;--offset-color:white;--offset-width:.1em;--final-width:calc(var(--offset-width) + var(--outline-width));--offset-outline:0 0 0 var(--offset-width) var(--offset-color);--default-outline:0 0 0 var(--final-width) var(--secondary);position:relative;font-size:var(--font-size);height:var(--input-size);width:var(--input-size)}.vue-simple-checkbox-container .vue-simple-check[data-v-43efec6b]{border:var(--border-width) var(--primary) var(--border-style);background-color:var(--default-bg-color);width:100%;height:100%;position:absolute;top:0;left:0;pointer-events:none;border-radius:var(--border-radius);display:block;transition:var(--default-bg-transition)}.vue-simple-checkbox-container .vue-simple-checkbox-check-icon[data-v-43efec6b]{transition:var(--default-opacity-transition);opacity:0;width:100%;color:var(--icon-color)}.vue-simple-checkbox-container .vue-simple-checkbox:checked+.vue-simple-check[data-v-43efec6b]{background-color:var(--primary)}.vue-simple-checkbox-container .vue-simple-checkbox:checked+.vue-simple-check .vue-simple-checkbox-check-icon[data-v-43efec6b]{opacity:1}.vue-simple-checkbox-container .vue-simple-checkbox:focus+.vue-simple-check[data-v-43efec6b]{box-shadow:var(--offset-outline),var(--default-outline)}.vue-simple-checkbox-container .vue-simple-checkbox[data-v-43efec6b]{width:100%;height:100%;opacity:0;display:block;position:absolute;top:0;left:0;right:0;bottom:0;margin:0}.vue-simple-checkbox-container .vue-simple-checkbox[data-v-43efec6b]:focus{outline:0}",
+  inject("data-v-76edf4dd_0", {
+    source: ".vue-simple-checkbox-container{--input-size:2em;--border-width:.1em;--border-radius:.5em;--border-style:solid;--default-bg-color:white;--default-bg-transition:background-color .1s ease-in;--default-opacity-transition:opacity 0.3s ease-in;--font-size:62.5%;--icon-color:white;--primary:#3B82F6;--secondary:#93C5FD;--outline-width:.2em;--offset-color:white;--offset-width:.1em;--final-width:calc(var(--offset-width) + var(--outline-width));--offset-outline:0 0 0 var(--offset-width) var(--offset-color);--default-outline:0 0 0 var(--final-width) var(--secondary);position:relative;font-size:var(--font-size);height:var(--input-size);width:var(--input-size)}.vue-simple-checkbox-container .vue-simple-check{border:var(--border-width) var(--primary) var(--border-style);background-color:var(--default-bg-color);width:100%;height:100%;position:absolute;top:0;left:0;pointer-events:none;border-radius:var(--border-radius);display:block;transition:var(--default-bg-transition)}.vue-simple-checkbox-container .vue-simple-checkbox-check-icon{transition:var(--default-opacity-transition);opacity:0;width:100%;color:var(--icon-color)}.vue-simple-checkbox-container .vue-simple-checkbox:checked+.vue-simple-check{background-color:var(--primary)}.vue-simple-checkbox-container .vue-simple-checkbox:checked+.vue-simple-check .vue-simple-checkbox-check-icon{opacity:1}.vue-simple-checkbox-container .vue-simple-checkbox:focus+.vue-simple-check{box-shadow:var(--offset-outline),var(--default-outline)}.vue-simple-checkbox-container .vue-simple-checkbox{width:100%;height:100%;opacity:0;display:block;position:absolute;top:0;left:0;right:0;bottom:0;margin:0}.vue-simple-checkbox-container .vue-simple-checkbox:focus{outline:0}",
     map: undefined,
     media: undefined
   });
@@ -329,10 +329,10 @@ var __vue_inject_styles__ = function __vue_inject_styles__(inject) {
 /* scoped */
 
 
-var __vue_scope_id__ = "data-v-43efec6b";
+var __vue_scope_id__ = undefined;
 /* module identifier */
 
-var __vue_module_identifier__ = "data-v-43efec6b";
+var __vue_module_identifier__ = "data-v-76edf4dd";
 /* functional template */
 
 var __vue_is_functional_template__ = false;

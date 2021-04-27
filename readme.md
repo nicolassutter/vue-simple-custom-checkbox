@@ -2,7 +2,7 @@
 
 A simple Vue component for customized and customizable checkboxes.
 
-[Demo available here](https://codepen.io/Sinuto/pen/GRreVxo)
+[Demo available here](https://codepen.io/Sinuto/pen/yLgrerj)
 ## <a id="get-started"></a> Get started
 
 ````sh

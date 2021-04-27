@@ -1,6 +1,6 @@
 {
   "name": "vue-simple-custom-checkbox",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple Vue.js custom checkbox component.",
   "main": "dist/vue-simple-custom-checkbox.ssr.js",
   "browser": "dist/vue-simple-custom-checkbox.esm.js",
