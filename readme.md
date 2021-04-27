@@ -111,4 +111,4 @@ The values can be changed using the custom css properties listed below.
 
 ### Side notes
 
-The component is originally made for my personnal use and therefore may contain bugs (that can be reported on the [GitHub repo](https://github.com/nicolassutter/vue-simple-custom-select)).
+The component is originally made for my personnal use and therefore may contain bugs (that can be reported on the [GitHub repo](https://github.com/nicolassutter/vue-simple-custom-checkbox)).
