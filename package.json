@@ -12,6 +12,10 @@
     "vue-simple-custom-checkbox.d.ts",
     "src/**/*.vue"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nicolassutter/vue-simple-custom-checkbox.git"
+  },
   "sideEffects": false,
   "scripts": {
     "serve": "vue-cli-service serve dev/serve.ts",
